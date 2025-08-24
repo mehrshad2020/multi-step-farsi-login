@@ -1,6 +1,8 @@
 # فرم ورود چند مرحله‌ای 🔐
 
 یک فرم ورود مدرن و زیبا با سه روش مختلف ورود که با Tailwind CSS و HTML خالص طراحی شده است.
+<img width="745" height="778" alt="image" src="https://github.com/user-attachments/assets/95aa43ed-035a-4192-a0c5-7cb2714cbfb9" />
+
 
 ## 📋 فهرست مطالب
 
@@ -286,3 +288,4 @@ animation: fadeSlideIn 220ms ease-out;
 - [Tailwind CSS](https://tailwindcss.com)
 - [Lucide Icons](https://lucide.dev)
 - [فونت وزیر](https://github.com/rastikerdar/vazirmatn)
+
